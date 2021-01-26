@@ -1,9 +1,9 @@
-Chapter 8 : 
+**Chapter 8**
 There are been different  types of version for HTML such as HTML 4 , HTML 1.0 ,or HTML 5  , and every types has own properties  .
 To add comment in HTML , you can add this characters <!- -text - - > 
 ID attribute :- every HTML can carry the id attribute ,it should starts with a letter or an underscore 
 Class attribute :- if you have a paragraph in your text more important you can use class attribute .
-Block elements :- it is a elements that always appear on a new line for example <h1> , <p> , and <li>
+Block elements :- it is a elements that always appear on a new line
 These some elements that are used in HTML code  
 
 Chapter  17 : 
