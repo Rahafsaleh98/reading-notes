@@ -1,4 +1,4 @@
-Foreground color
+**Foreground color**
 In CSS we can add a color of text inside an element, so we have 3 ways to specify any color. 
 1. RGB Values: this way related to how many colors (red, green, and blue )are used to make it up 
 Example :(100,100,90)
@@ -14,7 +14,7 @@ Hue: is the colloquial idea of color, and it represents as a color circle
 Saturation:- is the amount of gray in a color, and it represents as a percentage 
 Lightness: is the amount of white or black in a color
 
-Function methods & objects 
+**Function methods & objects**
 - Function declaration: is to create a function you give it a name then write the statements needed to achieve its task inside the curly braces 
 Function then Function name then (statement) then code block must be in curly braces 
 Most functions are likely to consist of more statements 
