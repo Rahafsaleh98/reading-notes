@@ -16,7 +16,7 @@
 
 Contents
 
-| ---------------------------------------|
+------------------------------------------
 | name    | 	Content                  |
-|class-01 |	[HTML and Java               |
+|class-01 |	[HTML and Java](https://github.com/Rahafsaleh98/reading-notes/blob/main/class-01.md)|
 ------------------------------------------
