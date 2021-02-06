@@ -15,7 +15,8 @@
  **Code 201 Reading Notes**
 
 Contents
+
 | ---------------------------------------|
-| name    | 	Content|
-|class-01 |	HTML5 + CSS3 + Javascript|
+| name    | 	Content                  |
+|class-01 |	[HTML and Java               |
 ------------------------------------------
