@@ -12,9 +12,10 @@
 
 
 
- **Code 201 Reading Notes**
-------------------------------------------
-| name    | 	Content                  |
-------------------------------------------
-|class-01 |	[HTML and Java](https://github.com/Rahafsaleh98/reading-notes/blob/main/class-01.md)|
-------------------------------------------
+  **Code 201 Reading Notes**
+
+--------------------------------- 
+| name     |     content        | 
+| ---------|--------------------| 
+|class -01 |[HTML and Java](https://github.com/Rahafsaleh98/reading-notes/blob/main/class-01.md)  |
+---------------------------------
