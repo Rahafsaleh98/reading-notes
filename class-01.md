@@ -34,20 +34,19 @@ All comments is will not show on the browser.
 
 Here I write a definition of some elements:- 
 
-1. Block Elements:- elements that will always be on a new line in the window 
-Such as “ <h1>, <p>, <ul> , and <li>”
+1. Block Elements:- elements that will always be on a new line in the window .
 
-2. Inline Elements :- elements that will always be on the same line such as “ <a>, <b>, <em> , and <img>
+2. Inline Elements :- elements that will always be on the same line.
 
 3. Div tag:- is a division or a section in an HTML document.
 
-4. Span tag:- is an inline container use to mark up a part of a text, or a document 
+4. Span tag:- is an inline container use to mark up a part of a text, or a document .
 
 5. Iframe tag:- is an inline frame that is used to embed another document within the current HTML document.
 
 There are different Escape characters that are used in HTML code 
 Here are some characters :- 
-1. < --- less than 
-2. > --- greater than 
-3. & --- Ampersand 
-4. “ --- quotation mark
+1. '<' --- less than 
+2. '>' --- greater than 
+3. '&' --- Ampersand 
+4. '“' --- quotation mark
