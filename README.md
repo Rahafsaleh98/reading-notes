@@ -1,7 +1,10 @@
+ **intoduction :** 
  my name is Rahaf i am 22 years old i graduated in major of English language . I love to learning something new 
 
+
+**code 102** 
 --------------------------------- 
-| name     |     homework       | 
+| name     |    content     | 
 | ---------|--------------------| 
 |   Lab02b   |   	[Growth Mindset](https://rahafsaleh98.github.io/reading-notes/lab02a)  |
 |  Read03a	 |    [Structure webpages with HTML](https://github.com/Rahafsaleh98/reading-notes/blob/main/read03a.md)|
@@ -12,10 +15,10 @@
 
 
 
-  ##Code 201 Reading Notes
+  **Code 201** 
 
 --------------------------------- 
 | name     |     content        | 
 | ---------|--------------------| 
-|read 1    |[HTML and JavaScriptS](201/read1.md)  |
+|read 1    |[HTML and JavaScript](201/read1.md)  |
 ---------------------------------
