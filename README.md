@@ -4,18 +4,19 @@
 
 **code 102** 
 --------------------------------- 
-| name     |    content     | 
-| ---------|--------------------| 
-|   Lab02b   |   	[Growth Mindset](https://rahafsaleh98.github.io/reading-notes/lab02a)  |
-|  Read03a	 |    [Structure webpages with HTML](https://github.com/Rahafsaleh98/reading-notes/blob/main/read03a.md)|
-|  Read04	 |   [Programming with JS](https://github.com/Rahafsaleh98/reading-notes/blob/main/read04.md) |
-|  Read05	 |    [Operators and Loops](https://github.com/Rahafsaleh98/reading-notes/blob/main/read05.md) |
-|  Read06    | [Design web pages with CSS](https://github.com/Rahafsaleh98/reading-notes/blob/main/read06.md)
+| name     |    content                                                                                      | 
+| ---------|--------------------                                                                             | 
+|   Lab02b |   	[Growth Mindset](https://rahafsaleh98.github.io/reading-notes/lab02a)                        |
+|  Read03a |    [Structure webpages with HTML](https://github.com/Rahafsaleh98/reading-notes/blob/main/read03a.md)
+|  Read04	 |   [Programming with JS](https://github.com/Rahafsaleh98/reading-notes/blob/main/read04.md)       |
+|  Read05	 |    [Operators and Loops](https://github.com/Rahafsaleh98/reading-notes/blob/main/read05.md)       |          |                                                                                                  |
+|  Read06  | [Design web pages with CSS](https://github.com/Rahafsaleh98/reading-notes/blob/main/read06.md)
  --------------------------------------
 
 
 
   **Code 201** 
+
 
 --------------------------------- 
 | name     |     content        | 
