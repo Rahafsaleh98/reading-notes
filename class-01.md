@@ -8,19 +8,26 @@ HTML elements are made up of two tags the first is an opening tag, The second is
 The information between the opening and closing tag is the order that the browser will do it. 
 
 Opening tag is like :-  < character > 
+
 Closing tag is like :- </ character > 
 
 **Why we use Attributes?**
 - To tell us more about Elements, so Attributes give additional information about the content of an element .
 Attributes are made of two parts the first is a name, and the second is a value separated by an equals sign.
 How we can write attribute name and value? 
+
  < p attribute name= “ attribute value >
 
 *Name* is contended with what kind of extra information, and it should written in lowercase 
+
 *Value* is the setting for the attribute.
 
 
+
+
 #*Chapter 8 “ Extra markup “*
+
+
 **How do we add comments in HTML?**
 
 If you need to write a comment you can use these characters:- 
