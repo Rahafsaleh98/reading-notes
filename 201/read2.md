@@ -3,48 +3,48 @@ When everyone needs to make a web page, he/she add tags.
 
 **These tags are used to provide an extra meaning.**
 
-1. Heading tag <h1> :- it has six levels from 1 to 6 
+1. Heading tag  :- it has six levels from 1 to 6 
 
-2. Paragraph tag <p> :- it used for add paragraph in body 
+2. Paragraph tag :- it used for add paragraph in body 
 
-3. Bold tag <b> 
+3. Bold tag 
 
-4. Italic tag <i>
+4. Italic tag 
 
-5. Superscript tag <sup>:- usually used for suffixes of data.
+5. Superscript tag :- usually used for suffixes of data.
 
-6. Subscript tag <sub>:- usually used with footnotes or chemical formulas
+6. Subscript tag :- usually used with footnotes or chemical formulas
 
 
  
 Here in the list we have different elements :- 
 
-> To add line breaks in HTML, You can use <br/> 
+> To add line breaks in HTML, You can use br/ tag 
 
-> To add horizontal rules , you can write this tag <hr/>
+> To add horizontal rules , you can write this tag hr/ tag
 
-> To write strong emphasis to any word you need, you can use <strong>
+> To write strong emphasis to any word you need, you can use strong tag
 
-> to make one word italic you can use before it <em>
+> to make one word italic you can use before it em tag
 
 
 
 **In HTML we have two elements that used in marking up quotations:-**
 
-The first is <blockquote> it mainly used for long quotes.
- The second is <q> it used for short quotes
+The first is blockquote tag it mainly used for long quotes.
+ The second is q tag it used for short quotes
 
-<cite> it can be used to indicate where the citation is form 
+cite tag it can be used to indicate where the citation is form 
 
-<dfn> it can use to indicate the defining instance of a new term
+dfn tag it can use to indicate the defining instance of a new term
 
-<address> it can use to contain a phone number or email
+address tag it can use to contain a phone number or email
 
-<ins> it can use to show content 
+ins tag it can use to show content 
 
-<del> it can use to show text that has been deleted 
+del tag it can use to show text that has been deleted 
 
-<s> it can use to something that is no longer relevant
+s tag it can use to something that is no longer relevant
 
 
 
