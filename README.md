@@ -25,5 +25,6 @@
 |read 2    |[Basics of HTML, CSS & JS](201/read2.md)|
 |read 3    |[HTML Lists, CSS Boxes, JS Control Flow](201/read3.md)|
 |read 4    |[HTML Links, CSS Layout, JS Functions](201/read4.md)|
-|read 5    |[ HTML Images; CSS Color & Text](201/read5.md)
+|read 5    |[ HTML Images; CSS Color & Text](201/read5.md)|
+|read 6    |  [JS Object Literals; The DOM](201/read6.md)        |
 ---------------------------------
