@@ -27,5 +27,6 @@
 |read 4    |[HTML Links, CSS Layout, JS Functions](201/read4.md)|
 |read 5    |[ HTML Images; CSS Color & Text](201/read5.md)|
 |read 6    |  [JS Object Literals; The DOM](201/read6.md)        |
-|read 7    | [HTML Tables JS Constructor Functions](201/read7.md)
+|read 7    | [HTML Tables JS Constructor Functions](201/read7.md)|
+|read 8    |[More CSS Layout](201/read8.md)|
 ---------------------------------
