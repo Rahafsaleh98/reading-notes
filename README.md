@@ -29,4 +29,5 @@
 |read 6    |  [JS Object Literals; The DOM](201/read6.md)        |
 |read 7    | [HTML Tables JS Constructor Functions](201/read7.md)|
 |read 8    |[More CSS Layout](201/read8.md)|
+|read 9    |[Forms and Events] (201/read.9.md)|
 ---------------------------------
