@@ -30,4 +30,7 @@
 |read 7    | [HTML Tables JS Constructor Functions](201/read7.md)|
 |read 8    |[More CSS Layout](201/read8.md)|
 |read 9    |[Forms and Events](201/read.9.md)|
+|read 10   |[ JS Debugging](201/read10.md)|
+
+
 ---------------------------------
