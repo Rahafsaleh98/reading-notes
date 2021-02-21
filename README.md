@@ -32,6 +32,6 @@
 |read 9    |[Forms and Events](201/read.9.md)|
 |read 10   |[ JS Debugging](201/read10.md)|
 |read 11   |[Assorted Topics](201/read11.md)|
-
+|read 12   |[Chart.js, Canvas](201/read12.md)
 
 ---------------------------------
