@@ -31,6 +31,7 @@
 |read 8    |[More CSS Layout](201/read8.md)|
 |read 9    |[Forms and Events](201/read.9.md)|
 |read 10   |[ JS Debugging](201/read10.md)|
+|read 11   |[Assorted Topics](201/read11.md)|
 
 
 ---------------------------------

@@ -55,22 +55,22 @@ It can take just one of two values either outside or inside
 > life style it allows to express the markers style , image and position
 
 CSS FOR TABLE:-
-1. Width:- to set the width of the table
+1. "Width:- to set the width of the table"
 
-2. Padding:- to set the space between the border of each table cell and its content
+2." Padding:- to set the space between the border of each table cell and its content"
 
-3. Text-transform:- to convert the content of the table headers to uppercase
+3. "Text-transform:- to convert the content of the table headers to uppercase"
 
-4. letter-spacing, font-size :- 
-to add additional styling to the content of the table headers
+4. "letter-spacing, font-size :- 
+to add additional styling to the content of the table headers"
 
-5. border-top, border-bottom:-  to set borders above and below the table headers
+5. "border-top, border-bottom:-  to set borders above and below the table headers"
 
-6. text-align :- to align the writing to the left of some table cells and to the right of the others
+6. "text-align :- to align the writing to the left of some table cells and to the right of the others"
 
-7. background-color :- to change the background color of the alternating table rows
+7. "background-color :- to change the background color of the alternating table rows"
 
-8. hover:-  to highlight a table row when a user's mouse goes over it
+8. "hover:-  to highlight a table row when a user's mouse goes over it"
 
 *Chapter 6 “Events” JS*
 
